@@ -12,7 +12,7 @@ User is presented with 12 images. In order to achieve the highest possible score
 - FontAwesome
 
 Video Demo
-ttps://drive.google.com/file/d/1bWt_CmyQxb5e4Mpcrxoe9v8zWoS4wl8r/view
+https://drive.google.com/file/d/1bWt_CmyQxb5e4Mpcrxoe9v8zWoS4wl8r/view
 
 
 
