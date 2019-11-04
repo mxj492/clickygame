@@ -4,7 +4,7 @@ A twist on "Memory Game"
 
 User is presented with 12 images. In order to achieve the highest possible score, they must click each image only once. If an image is clicked twice, the game resets.
 
-[Play game](https://mxj492.github.io/clickygame/.)
+[Play game](https://clickygame500.herokuapp.com/)
 
 ## Built With
 - React
